@@ -10,7 +10,9 @@ This is a personal project to monitor and automate the watering of my plants. It
 
 ### Components
 
-### Schematics
+### Schematic
+
+![Schematic](https://github.com/MarcosPRus/auto-garden/blob/main/Images/schematic.png)
 
 ### Code
 
